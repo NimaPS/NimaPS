@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NimaPS from Palestine, Software Developer
+- 👀 I’m interested in JavaScript developing
+- 🌱 I’m currently learning ReactJs
+- 📫 reach me on gmail @ nimaabusalim@gmail.com
